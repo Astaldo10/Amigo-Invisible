@@ -1,0 +1,82 @@
+html, body {
+
+	margin: 0px;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+.margen-top {
+
+	margin-top: 50px;
+
+}
+
+#div-titulo {
+
+	height: 100px;
+	width: 100%;
+	background-image: url("http://pt.wallpapersma.com/wp-content/uploads/2013/06/Azul-Wallpapers-Abstrato-Mac.jpg");
+	background-position: center;
+	border-top: 2px solid #d4d4d4;
+	border-bottom: 2px solid #d4d4d4;
+
+}
+
+#titulo {
+
+	font-size: 30px;
+	font-weight: bold;
+	color: white;
+
+}
+
+.input, .submit {
+
+	width: 300px;
+
+}
+
+.input {
+
+	margin-bottom: 5px;
+	text-align: center;
+	font-size: 15px;
+
+}
+
+.submit {
+
+	font-size: 20px;
+
+}
+
+.pie {
+
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	background: #f2f2f2;
+	border-top: 2px solid #d4d4d4;
+
+}
+
+#mensaje-pie, #submensaje-pie {
+
+	margin: 0px;
+	margin-top: 5px;
+	padding: 0px;
+
+}
+
+#mensaje-pie {
+
+	font-size: 15px;
+
+}
+
+#submensaje-pie {
+
+	font-size: 10px;
+	margin-bottom: 5px;
+
+}
